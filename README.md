@@ -23,10 +23,10 @@ Ozon — ведущая мультикатегорийная платформа 
 
 - по подготовке данных
 Тренировочные и тестовые данные в соответствующих каталогах:
-тренировочные: 
+- тренировочные: 
 hackathon_files_for_participants_ozon/train_pairs.parquet
 hackathon_files_for_participants_ozon/train_data.parquet
-тестовые:
+- тестовые:
 hackathon_files_for_participants_ozon/test_pairs_wo_target.parquet
 hackathon_files_for_participants_ozon/test_data.parquet
 
